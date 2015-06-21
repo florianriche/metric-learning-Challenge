@@ -1,0 +1,6 @@
+metric_learn/setup.py
+metric_learn.egg-info/PKG-INFO
+metric_learn.egg-info/SOURCES.txt
+metric_learn.egg-info/dependency_links.txt
+metric_learn.egg-info/requires.txt
+metric_learn.egg-info/top_level.txt
